@@ -4,7 +4,7 @@ const kathleenRoute = (req, res) => {
 
 const angelaRoute = (req, res) => {
   res.send(
-    'Name: Angela Crisp' <br>
+    'Name: Angela Crisp',
     'Email: acrisp@gmail.com',
     'Favourite Colour: Lilac',
     'Birthdate: 20th November 1936'); 
