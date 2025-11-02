@@ -4,6 +4,7 @@ const kathleenRoute = (req, res) => {
 
 const angelaRoute = (req, res) => {
   res.send('Angela Crisp');
+};
 
 const nephiRoute = (req, res) => {
   res.send('Nephi Wannenburgh');
@@ -14,3 +15,4 @@ module.exports = {
   angelaRoute,
   nephiRoute,
 };
+
