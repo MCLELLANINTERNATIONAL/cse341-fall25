@@ -4,11 +4,7 @@ const kathleenRoute = (req, res) => {
 
 const angelaRoute = (req, res) => {
   res.send(
-    'Name: Angela Crisp',
-    'Email: acrisp@gmail.com',
-    'Favourite Colour: Lilac',
-    'Birthdate: 20th November 1936'); 
-};
+    'Angela Crisp'};
 
 const nephiRoute = (req, res) => {
   res.send('Nephi Wannenburgh');
